@@ -9,10 +9,10 @@
 	Feel free to pull or suggest a new effective solution to problem.
 </p>
 
-## DataStructures
- - [Arrays](https://github.com/ashyantony/HackerRank#Arrays)
-
 ## Algorithms
-- [Warmup](https://github.com/ashyantony/HackerRank#Warmup)
-- [Implementation](https://github.com/ashyantony/HackerRank#Implementation)
+- [Warmup](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Warmup)
+- [Implementation](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Implementation)
+
+## DataStructures
+ - [Arrays](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Arrays)
   
