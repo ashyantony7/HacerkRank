@@ -8,3 +8,11 @@
 <p align="center">
 	Feel free to pull or suggest a new effective solution to problem.
 </p>
+
+## DataStructures
+ - [Arrays](https://github.com/ashyantony/HackerRank#Arrays)
+
+## Algorithms
+- [Warmup](https://github.com/ashyantony/HackerRank#Warmup)
+- [Implementation](https://github.com/ashyantony/HackerRank#Implementation)
+  
