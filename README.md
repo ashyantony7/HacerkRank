@@ -12,7 +12,10 @@
 ## Algorithms
 - [Warmup](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Implementation)
+- [Strings](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Strings)
+- [Search](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Search)
+- [Graph Theory](https://github.com/ashyantony7/HacerkRank/tree/master/Algorithms/Graph_Theory)
 
 ## DataStructures
  - [Arrays](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Arrays)
-  
+ - [Linked Lists](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Linked_Lists)
