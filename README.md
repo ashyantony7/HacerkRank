@@ -1,6 +1,6 @@
 [CopyrightLicense]:./license.md
 <p align="center">
-	<a href="https://www.hackerrank.com/ashyantony7"><img src="https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg" ></a>
+	<a href="https://www.hackerrank.com/ashyantony7"><img src="https://user-images.githubusercontent.com/34477865/77835275-7f45fb00-714b-11ea-8306-d0dcf4a0351d.png" ></a>
 </p>
 <p align="center">
     Solutions to problems on HackerRank.
