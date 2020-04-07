@@ -19,3 +19,4 @@
 ## DataStructures
  - [Arrays](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Arrays)
  - [Linked Lists](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Linked_Lists)
+ - [Trees](https://github.com/ashyantony7/HacerkRank/tree/master/Data_Structures/Trees)
